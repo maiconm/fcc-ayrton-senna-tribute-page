@@ -1,0 +1,43 @@
+* {
+  font-family: Arial, sans-serif;
+  color: white;
+}
+
+body {
+  background-image: linear-gradient(#191c20, #24292e 15%);
+}
+
+h1,
+p,
+figure,
+a,
+div {
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#image-div {
+  padding: 10px;
+}
+
+#image {
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 5px;
+}
+
+#tribute-info {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(39, 41, 61);
+  margin-bottom: 5px;
+}
+
+li {
+  padding: 3px 0;
+}
